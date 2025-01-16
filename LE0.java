@@ -1,5 +1,5 @@
 
-public class Juet
+public class LE0
 {
 	int age;
 	String name;
@@ -22,7 +22,7 @@ public class Juet
 
 	public static void main(String[] args)
 	{
-		Juet test =new Juet();
+		Juet test =new LE0();
 		test.setage(21);
 		test.setname("Vedant");
 		System.out.println("Age="+test.getage());
